@@ -1,0 +1,129 @@
+D:\My Code\TLB Upgrading\PCRBAY_2010\PATG\bin\Debug\PCRBAY.exe.config
+D:\My Code\TLB Upgrading\PCRBAY_2010\PCRBAY\bin\Debug\AppStartup.ini
+D:\My Code\TLB Upgrading\PCRBAY_2010\PCRBAY\bin\Debug\PCRBay.exe.config
+D:\My Code\TLB Upgrading\PCRBAY_2010\PCRBAY\bin\Debug\PCRBay.exe
+D:\My Code\TLB Upgrading\PCRBAY_2010\PCRBAY\bin\Debug\PCRBay.pdb
+D:\My Code\TLB Upgrading\PCRBAY_2010\PCRBAY\bin\Debug\IniLib.dll
+D:\My Code\TLB Upgrading\PCRBAY_2010\PCRBAY\bin\Debug\MercuryCardReader.dll
+D:\My Code\TLB Upgrading\PCRBAY_2010\PCRBAY\bin\Debug\Modbus.dll
+D:\My Code\TLB Upgrading\PCRBAY_2010\PCRBAY\bin\Debug\Oracle.DataAccess.dll
+D:\My Code\TLB Upgrading\PCRBAY_2010\PCRBAY\bin\Debug\MercuryCardReader.pdb
+D:\My Code\TLB Upgrading\PCRBAY_2010\PCRBAY\bin\Debug\Modbus.pdb
+D:\My Code\TLB Upgrading\PCRBAY_2010\PCRBAY\obj\x86\Debug\PCRBAY.frmMain.resources
+D:\My Code\TLB Upgrading\PCRBAY_2010\PCRBAY\obj\x86\Debug\PCRBay.Properties.Resources.resources
+D:\My Code\TLB Upgrading\PCRBAY_2010\PCRBAY\obj\x86\Debug\PCRBAY.csproj.GenerateResource.Cache
+D:\My Code\TLB Upgrading\PCRBAY_2010\PCRBAY\obj\x86\Debug\PCRBay.exe
+D:\My Code\TLB Upgrading\PCRBAY_2010\PCRBAY\obj\x86\Debug\PCRBay.pdb
+D:\My Code\TLB Upgrading\PCRBay_2010\PCRBay\obj\x86\Debug\PCRBay.csprojResolveAssemblyReference.cache
+E:\งาน\G15-026_TAM\LLTLB\PCRBay_2010\PCRBay\bin\Debug\PCRBay.exe.config
+E:\งาน\G15-026_TAM\LLTLB\PCRBay_2010\PCRBay\obj\x86\Debug\PCRBay.exe
+E:\งาน\G15-026_TAM\LLTLB\PCRBay_2010\PCRBay\obj\x86\Debug\PCRBay.pdb
+E:\งาน\G15-026_TAM\LLTLB\PCRBay_2010\PCRBay\bin\Debug\AppStartup.ini
+E:\งาน\G15-026_TAM\LLTLB\PCRBay_2010\PCRBay\bin\Debug\PCRBay.exe
+E:\งาน\G15-026_TAM\LLTLB\PCRBay_2010\PCRBay\bin\Debug\PCRBay.pdb
+E:\งาน\G15-026_TAM\LLTLB\PCRBay_2010\PCRBay\bin\Debug\IniLib.dll
+E:\งาน\G15-026_TAM\LLTLB\PCRBay_2010\PCRBay\bin\Debug\MercuryCardReader.dll
+E:\งาน\G15-026_TAM\LLTLB\PCRBay_2010\PCRBay\bin\Debug\Modbus.dll
+E:\งาน\G15-026_TAM\LLTLB\PCRBay_2010\PCRBay\bin\Debug\Oracle.DataAccess.dll
+E:\งาน\G15-026_TAM\LLTLB\PCRBay_2010\PCRBay\bin\Debug\MercuryCardReader.pdb
+E:\งาน\G15-026_TAM\LLTLB\PCRBay_2010\PCRBay\bin\Debug\Modbus.pdb
+E:\งาน\G15-026_TAM\LLTLB\PCRBay_2010\PCRBay\obj\x86\Debug\PCRBay.csprojResolveAssemblyReference.cache
+E:\งาน\G15-026_TAM\LLTLB\PCRBay_2010\PCRBay\obj\x86\Debug\PCRBAY.frmMain.resources
+E:\งาน\G15-026_TAM\LLTLB\PCRBay_2010\PCRBay\obj\x86\Debug\PCRBay.Properties.Resources.resources
+E:\งาน\G15-026_TAM\LLTLB\PCRBay_2010\PCRBay\obj\x86\Debug\PCRBay.csproj.GenerateResource.Cache
+E:\งาน\G15-026_TAM\LLTLB\PCRBay_2010\PCRBay\bin\Debug\Kepware.ClientAce.BrowseControls.dll
+E:\งาน\G15-026_TAM\LLTLB\PCRBay_2010\PCRBay\bin\Debug\Kepware.ClientAce.DA_Junction.dll
+E:\งาน\G15-026_TAM\LLTLB\PCRBay_2010\PCRBay\bin\Debug\Kepware.ClientAce.KEPServerExControls.dll
+E:\งาน\G15-026_TAM\LLTLB\PCRBay_2010\PCRBay\bin\Debug\Kepware.ClientAce.OpcClient.dll
+E:\งาน\G15-026_TAM\LLTLB\PCRBay_2010\PCRBay\bin\Debug\Kepware.ClientAce.VS2010AddIn.dll
+E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PCRBay_2010\PCRBay\bin\Debug\PCRBay.exe.config
+E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PCRBay_2010\PCRBay\obj\x86\Debug\PCRBay.exe
+E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PCRBay_2010\PCRBay\obj\x86\Debug\PCRBay.pdb
+E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PCRBay_2010\PCRBay\bin\Debug\AppStartup.ini
+E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PCRBay_2010\PCRBay\bin\Debug\PCRBay.exe
+E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PCRBay_2010\PCRBay\bin\Debug\PCRBay.pdb
+E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PCRBay_2010\PCRBay\bin\Debug\IniLib.dll
+E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PCRBay_2010\PCRBay\bin\Debug\Modbus.dll
+E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PCRBay_2010\PCRBay\bin\Debug\Oracle.DataAccess.dll
+E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PCRBay_2010\PCRBay\bin\Debug\MercuryCardReader.pdb
+E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PCRBay_2010\PCRBay\bin\Debug\Modbus.pdb
+E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PCRBay_2010\PCRBay\obj\x86\Debug\PCRBay.csprojResolveAssemblyReference.cache
+E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PCRBay_2010\PCRBay\obj\x86\Debug\PCRBAY.frmMain.resources
+E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PCRBay_2010\PCRBay\obj\x86\Debug\PCRBay.Properties.Resources.resources
+E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PCRBay_2010\PCRBay\obj\x86\Debug\PCRBay.csproj.GenerateResource.Cache
+D:\My Code\TLB Upgrading\PCRBay_2010\PCRBay_2010_Before Tie in\PCRBay\bin\Debug\PCRBay.exe.config
+D:\My Code\TLB Upgrading\PCRBay_2010\PCRBay_2010_Before Tie in\PCRBay\obj\x86\Debug\PCRBay.exe
+D:\My Code\TLB Upgrading\PCRBay_2010\PCRBay_2010_Before Tie in\PCRBay\obj\x86\Debug\PCRBay.pdb
+D:\My Code\TLB Upgrading\PCRBay_2010\PCRBay_2010_Before Tie in\PCRBay\obj\x86\Debug\PCRBay.csprojResolveAssemblyReference.cache
+D:\My Code\TLB Upgrading\PCRBay_2010\PCRBay_2010_Before Tie in\PCRBay\obj\x86\Debug\PCRBAY.frmMain.resources
+D:\My Code\TLB Upgrading\PCRBay_2010\PCRBay_2010_Before Tie in\PCRBay\obj\x86\Debug\PCRBay.Properties.Resources.resources
+D:\My Code\TLB Upgrading\PCRBay_2010\PCRBay_2010_Before Tie in\PCRBay\obj\x86\Debug\PCRBay.csproj.GenerateResource.Cache
+D:\My Code\TLB Upgrading\PCRBay_2010\PCRBay_2010_Before Tie in\PCRBay\bin\Debug\AppStartup.ini
+D:\My Code\TLB Upgrading\PCRBay_2010\PCRBay_2010_Before Tie in\PCRBay\bin\Debug\PCRBay.exe
+D:\My Code\TLB Upgrading\PCRBay_2010\PCRBay_2010_Before Tie in\PCRBay\bin\Debug\PCRBay.pdb
+D:\My Code\TLB Upgrading\PCRBay_2010\PCRBay_2010_Before Tie in\PCRBay\bin\Debug\IniLib.dll
+D:\My Code\TLB Upgrading\PCRBay_2010\PCRBay_2010_Before Tie in\PCRBay\bin\Debug\MercuryCardReader.dll
+D:\My Code\TLB Upgrading\PCRBay_2010\PCRBay_2010_Before Tie in\PCRBay\bin\Debug\Modbus.dll
+D:\My Code\TLB Upgrading\PCRBay_2010\PCRBay_2010_Before Tie in\PCRBay\bin\Debug\Oracle.DataAccess.dll
+D:\My Code\TLB Upgrading\PCRBay_2010\PCRBay_2010_Before Tie in\PCRBay\bin\Debug\MercuryCardReader.pdb
+D:\My Code\TLB Upgrading\PCRBay_2010\PCRBay_2010_Before Tie in\PCRBay\bin\Debug\Modbus.pdb
+D:\My Code\TLB Upgrading\PCRBay_2010\PCRBay_2010_29-10-2016\PCRBay\bin\Debug\PCRBay.exe.config
+D:\My Code\TLB Upgrading\PCRBay_2010\PCRBay_2010_29-10-2016\PCRBay\obj\x86\Debug\PCRBay.exe
+D:\My Code\TLB Upgrading\PCRBay_2010\PCRBay_2010_29-10-2016\PCRBay\obj\x86\Debug\PCRBay.pdb
+D:\My Code\TLB Upgrading\PCRBay_2010\PCRBay_2010_29-10-2016\PCRBay\bin\Debug\AppStartup.ini
+D:\My Code\TLB Upgrading\PCRBay_2010\PCRBay_2010_29-10-2016\PCRBay\bin\Debug\PCRBay.exe
+D:\My Code\TLB Upgrading\PCRBay_2010\PCRBay_2010_29-10-2016\PCRBay\bin\Debug\PCRBay.pdb
+D:\My Code\TLB Upgrading\PCRBay_2010\PCRBay_2010_29-10-2016\PCRBay\bin\Debug\IniLib.dll
+D:\My Code\TLB Upgrading\PCRBay_2010\PCRBay_2010_29-10-2016\PCRBay\bin\Debug\MercuryCardReader.dll
+D:\My Code\TLB Upgrading\PCRBay_2010\PCRBay_2010_29-10-2016\PCRBay\bin\Debug\Modbus.dll
+D:\My Code\TLB Upgrading\PCRBay_2010\PCRBay_2010_29-10-2016\PCRBay\bin\Debug\Oracle.DataAccess.dll
+D:\My Code\TLB Upgrading\PCRBay_2010\PCRBay_2010_29-10-2016\PCRBay\bin\Debug\MercuryCardReader.pdb
+D:\My Code\TLB Upgrading\PCRBay_2010\PCRBay_2010_29-10-2016\PCRBay\bin\Debug\Modbus.pdb
+D:\My Code\TLB Upgrading\PCRBay_2010\PCRBay_2010_29-10-2016\PCRBay\obj\x86\Debug\PCRBay.csprojResolveAssemblyReference.cache
+D:\My Code\TLB Upgrading\PCRBay_2010\PCRBay_2010_29-10-2016\PCRBay\obj\x86\Debug\PCRBAY.frmMain.resources
+D:\My Code\TLB Upgrading\PCRBay_2010\PCRBay_2010_29-10-2016\PCRBay\obj\x86\Debug\PCRBay.Properties.Resources.resources
+D:\My Code\TLB Upgrading\PCRBay_2010\PCRBay_2010_29-10-2016\PCRBay\obj\x86\Debug\PCRBay.csproj.GenerateResource.Cache
+E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PCRBay_2010\PCRBay\bin\Debug\MercuryCardReader.dll
+E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PCRBay_2010\PCRBay\bin\Debug\Microsoft.Build.Conversion.v3.5.dll
+E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PCRBay_2010\PCRBay\bin\Debug\Microsoft.Build.Utilities.v3.5.dll
+E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PCRBay_2010\PCRBay\bin\Debug\Microsoft.Build.Conversion.v3.5.xml
+E:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PCRBay_2010\PCRBay\bin\Debug\Microsoft.Build.Utilities.v3.5.xml
+I:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PCRBay_2010\PCRBay\bin\Debug\PCRBay.exe.config
+I:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PCRBay_2010\PCRBay\obj\x86\Debug\PCRBay.exe
+I:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PCRBay_2010\PCRBay\obj\x86\Debug\PCRBay.pdb
+I:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PCRBay_2010\PCRBay\bin\Debug\AppStartup.ini
+I:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PCRBay_2010\PCRBay\bin\Debug\PCRBay.exe
+I:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PCRBay_2010\PCRBay\bin\Debug\PCRBay.pdb
+I:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PCRBay_2010\PCRBay\bin\Debug\IniLib.dll
+I:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PCRBay_2010\PCRBay\bin\Debug\MercuryCardReader.dll
+I:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PCRBay_2010\PCRBay\bin\Debug\Microsoft.Build.Conversion.v3.5.dll
+I:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PCRBay_2010\PCRBay\bin\Debug\Microsoft.Build.Utilities.v3.5.dll
+I:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PCRBay_2010\PCRBay\bin\Debug\Modbus.dll
+I:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PCRBay_2010\PCRBay\bin\Debug\Oracle.DataAccess.dll
+I:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PCRBay_2010\PCRBay\bin\Debug\MercuryCardReader.pdb
+I:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PCRBay_2010\PCRBay\bin\Debug\Microsoft.Build.Conversion.v3.5.xml
+I:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PCRBay_2010\PCRBay\bin\Debug\Microsoft.Build.Utilities.v3.5.xml
+I:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PCRBay_2010\PCRBay\bin\Debug\Modbus.pdb
+I:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PCRBay_2010\PCRBay\obj\x86\Debug\PCRBay.csprojResolveAssemblyReference.cache
+I:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PCRBay_2010\PCRBay\obj\x86\Debug\PCRBAY.frmMain.resources
+I:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PCRBay_2010\PCRBay\obj\x86\Debug\PCRBay.Properties.Resources.resources
+I:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\22082016\PCRBay_2010\PCRBay\obj\x86\Debug\PCRBay.csproj.GenerateResource.Cache
+I:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\2020\PCRBay_2010\PCRBay\bin\Debug\AppStartup.ini
+I:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\2020\PCRBay_2010\PCRBay\bin\Debug\PCRBay.exe.config
+I:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\2020\PCRBay_2010\PCRBay\bin\Debug\PCRBay.exe
+I:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\2020\PCRBay_2010\PCRBay\bin\Debug\PCRBay.pdb
+I:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\2020\PCRBay_2010\PCRBay\bin\Debug\IniLib.dll
+I:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\2020\PCRBay_2010\PCRBay\bin\Debug\MercuryCardReader.dll
+I:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\2020\PCRBay_2010\PCRBay\bin\Debug\Microsoft.Build.Conversion.v3.5.dll
+I:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\2020\PCRBay_2010\PCRBay\bin\Debug\Microsoft.Build.Utilities.v3.5.dll
+I:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\2020\PCRBay_2010\PCRBay\bin\Debug\Modbus.dll
+I:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\2020\PCRBay_2010\PCRBay\bin\Debug\Oracle.ManagedDataAccess.dll
+I:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\2020\PCRBay_2010\PCRBay\bin\Debug\MercuryCardReader.pdb
+I:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\2020\PCRBay_2010\PCRBay\bin\Debug\Modbus.pdb
+I:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\2020\PCRBay_2010\PCRBay\obj\x86\Debug\PCRBAY.frmMain.resources
+I:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\2020\PCRBay_2010\PCRBay\obj\x86\Debug\PCRBay.Properties.Resources.resources
+I:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\2020\PCRBay_2010\PCRBay\obj\x86\Debug\PCRBay.csproj.GenerateResource.cache
+I:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\2020\PCRBay_2010\PCRBay\obj\x86\Debug\PCRBay.csproj.CoreCompileInputs.cache
+I:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\2020\PCRBay_2010\PCRBay\obj\x86\Debug\PCRBay.csproj.CopyComplete
+I:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\2020\PCRBay_2010\PCRBay\obj\x86\Debug\PCRBay.exe
+I:\งาน\G15-026_TAM\LLTLB\UPDATE CODE\2020\PCRBay_2010\PCRBay\obj\x86\Debug\PCRBay.pdb

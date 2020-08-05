@@ -1,0 +1,11 @@
+COPC DLL 2.0
+*****************************
+
+1. Installation
+
+- Copy file copc.dll and copcdaauto.dll to system drive(C: or other)\Windows\system32
+- Open command line by click on Start > Run.
+   Change directory to system directory, for eaxample C:\Windows\system32.
+   Type 'regsvr32 copcdaauto.dll' then press enter.
+   Type 'regsvr32 copc.dll' then press enter.
+

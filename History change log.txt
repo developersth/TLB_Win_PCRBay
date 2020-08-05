@@ -1,0 +1,6 @@
+revision control 
+PCRBay1_0.0
+
+21:24 31/10/2016
+-แก้ไข function stopload ที่  card reader (กด F7 จาก card reader)
+-เพิ่มเติม function complete load ที่  card reader (กด F8 จาก card reader เพ่ือ complete batch หลังจากกด F7)

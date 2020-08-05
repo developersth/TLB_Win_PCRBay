@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="PCRBay">
+</Property><Property Name="Solution File" Value="D:\My Code\SAKC\PCRBay_2010\PCRBay.sln">
+</Property><Property Name="Date" Value="Tuesday, May 05, 2015">
+</Property><Property Name="Time" Value="09:52">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="PCRBay.sln" Description="File successfully backed up as D:\My Code\SAKC\PCRBay_2010\Backup\PCRBay.sln">
+</Event><Event ErrorLevel="0" Project="PCRBay" Source="PCRBay\PCRBay.csproj" Description="Project file successfully backed up as D:\My Code\SAKC\PCRBay_2010\Backup\PCRBay\PCRBay.csproj">
+</Event><Event ErrorLevel="0" Project="PCRBay" Source="PCRBay\PCRBay.csproj.user" Description="Project user file successfully backed up as D:\My Code\SAKC\PCRBay_2010\Backup\PCRBay\PCRBay.csproj.user">
+</Event><Event ErrorLevel="0" Project="PCRBay" Source="PCRBay\Class\cCardReader.cs" Description="File successfully backed up as D:\My Code\SAKC\PCRBay_2010\Backup\PCRBay\Class\cCardReader.cs">
+</Event><Event ErrorLevel="0" Project="PCRBay" Source="PCRBay\Class\cCRProcess.cs" Description="File successfully backed up as D:\My Code\SAKC\PCRBay_2010\Backup\PCRBay\Class\cCRProcess.cs">
+</Event><Event ErrorLevel="0" Project="PCRBay" Source="PCRBay\Class\clogfile.cs" Description="File successfully backed up as D:\My Code\SAKC\PCRBay_2010\Backup\PCRBay\Class\clogfile.cs">
+</Event><Event ErrorLevel="0" Project="PCRBay" Source="PCRBay\Class\cMercuryFnc.cs" Description="File successfully backed up as D:\My Code\SAKC\PCRBay_2010\Backup\PCRBay\Class\cMercuryFnc.cs">
+</Event><Event ErrorLevel="0" Project="PCRBay" Source="PCRBay\Class\cOracle.cs" Description="File successfully backed up as D:\My Code\SAKC\PCRBay_2010\Backup\PCRBay\Class\cOracle.cs">
+</Event><Event ErrorLevel="0" Project="PCRBay" Source="PCRBay\Class\cPorts.cs" Description="File successfully backed up as D:\My Code\SAKC\PCRBay_2010\Backup\PCRBay\Class\cPorts.cs">
+</Event><Event ErrorLevel="0" Project="PCRBay" Source="PCRBay\frmCRBay.cs" Description="File successfully backed up as D:\My Code\SAKC\PCRBay_2010\Backup\PCRBay\frmCRBay.cs">
+</Event><Event ErrorLevel="0" Project="PCRBay" Source="PCRBay\frmCRBay.Designer.cs" Description="File successfully backed up as D:\My Code\SAKC\PCRBay_2010\Backup\PCRBay\frmCRBay.Designer.cs">
+</Event><Event ErrorLevel="0" Project="PCRBay" Source="PCRBay\Program.cs" Description="File successfully backed up as D:\My Code\SAKC\PCRBay_2010\Backup\PCRBay\Program.cs">
+</Event><Event ErrorLevel="0" Project="PCRBay" Source="PCRBay\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\My Code\SAKC\PCRBay_2010\Backup\PCRBay\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="PCRBay" Source="PCRBay\Properties\Resources.Designer.cs" Description="File successfully backed up as D:\My Code\SAKC\PCRBay_2010\Backup\PCRBay\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="PCRBay" Source="PCRBay\Settings.cs" Description="File successfully backed up as D:\My Code\SAKC\PCRBay_2010\Backup\PCRBay\Settings.cs">
+</Event><Event ErrorLevel="0" Project="PCRBay" Source="PCRBay\app.config" Description="File successfully backed up as D:\My Code\SAKC\PCRBay_2010\Backup\PCRBay\app.config">
+</Event><Event ErrorLevel="0" Project="PCRBay" Source="PCRBay\AppStartup.ini" Description="File successfully backed up as D:\My Code\SAKC\PCRBay_2010\Backup\PCRBay\AppStartup.ini">
+</Event><Event ErrorLevel="0" Project="PCRBay" Source="PCRBay\Properties\app.manifest" Description="File successfully backed up as D:\My Code\SAKC\PCRBay_2010\Backup\PCRBay\Properties\app.manifest">
+</Event><Event ErrorLevel="0" Project="PCRBay" Source="PCRBay\CMercuryLib.dll" Description="File successfully backed up as D:\My Code\SAKC\PCRBay_2010\Backup\PCRBay\CMercuryLib.dll">
+</Event><Event ErrorLevel="0" Project="PCRBay" Source="PCRBay\IniLib.dll" Description="File successfully backed up as D:\My Code\SAKC\PCRBay_2010\Backup\PCRBay\IniLib.dll">
+</Event><Event ErrorLevel="0" Project="PCRBay" Source="PCRBay\mercury.ico" Description="File successfully backed up as D:\My Code\SAKC\PCRBay_2010\Backup\PCRBay\mercury.ico">
+</Event><Event ErrorLevel="0" Project="PCRBay" Source="PCRBay\frmCRBay.resx" Description="File successfully backed up as D:\My Code\SAKC\PCRBay_2010\Backup\PCRBay\frmCRBay.resx">
+</Event><Event ErrorLevel="0" Project="PCRBay" Source="PCRBay\Properties\Resources.resx" Description="File successfully backed up as D:\My Code\SAKC\PCRBay_2010\Backup\PCRBay\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="PCRBay" Source="PCRBay\PCRBay.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="PCRBay" Source="PCRBay\PCRBay.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="PCRBay.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="PCRBay.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="PCRBay" Source="PCRBay\PCRBay.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
